@@ -1,0 +1,19 @@
+#logo {
+  content: url("../asset/logo.png");
+  width: 150px;
+  height: auto;
+  padding-right: 10px;
+}
+
+#pause > img {
+  content: url("../asset/pause.png");
+  height: 150px;
+  width: 150px;
+  top: -25px;
+  left: calc(50% - 75px);
+}
+
+#pause {
+  top: 50%;
+  background: none;
+}

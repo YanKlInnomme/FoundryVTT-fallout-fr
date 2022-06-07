@@ -1,0 +1,112 @@
+{
+	"label": "Compétences",
+	"mapping": {
+		"name": "name",
+		"img": "img",
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Athletics",
+			"name": "Athlétisme",
+			"img": "modules/fallout-fr/asset/Athletics.png",
+			"description": "<p>Athl&eacute;tisme d&eacute;termine votre&nbsp;capacit&eacute; &agrave; mettre en application votre force et votre agilit&eacute;, &agrave; conna&icirc;tre vos limites&nbsp;et &agrave; vous concentrer durant&nbsp;un effort physique.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est la <strong>Force</strong>, mais&nbsp;vous pouvez utiliser Agilit&eacute;, ou Endurance lorsque vous&nbsp;faites face &agrave; une adversit&eacute; physique. Employez Athl&eacute;tisme&nbsp;pour pousser, tirer ou soulever un objet, pour sauter,&nbsp;escalader, nager ou courir.</p>"
+		},
+		{
+			"id": "Barter",
+			"name": "Troc",
+			"img": "modules/fallout-fr/asset/Barter.png",
+			"description": "<p>Troc repr&eacute;sente votre talent&nbsp;avec l&rsquo;argent : savez-vous&nbsp;g&eacute;rer votre argent ? Faire&nbsp;de bonnes affaires ? N&eacute;gocier&nbsp;une baisse de prix ?</p>\n<p>Son attribut S.P.E.C.I.A.L.&nbsp;par d&eacute;faut est le <strong>Charisme</strong>,&nbsp;mais vous pouvez utiliser&nbsp;Perception pour d&eacute;terminer si votre interlocuteur est&nbsp;pr&ecirc;t &agrave; changer d&rsquo;avis ou Intelligence pour estimer la&nbsp;v&eacute;ritable valeur d&rsquo;un objet. Employez Troc pour vendre&nbsp;ou acheter des objets, ou encore pour n&eacute;gocier le prix&nbsp;d&rsquo;un service.</p>"
+		},
+		{
+			"id": "Big Guns",
+			"name": "Armes lourdes",
+			"img": "modules/fallout-fr/asset/Big-Guns.png",
+			"description": "<p>La comp&eacute;tence Armes&nbsp;lourdes repr&eacute;sente votre&nbsp;entra&icirc;nement aux armes de&nbsp;bonne taille, des Fat Man&nbsp;aux lasers gatling, en passant&nbsp;par tous les interm&eacute;diaires.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Endurance</strong>,&nbsp;mais vous pouvez utiliser Force si vous devez pr&eacute;parer&nbsp;une arme ou Agilit&eacute; si la pr&eacute;cision devient importante.&nbsp;Employez Armes lourdes pour manier des armes telles&nbsp;que les miniguns, les lance-roquettes, les Fat Man et les&nbsp;lasers gatling.</p>"
+		},
+		{
+			"id": "Energy Weapons",
+			"name": "Armes à énergie",
+			"img": "modules/fallout-fr/asset/Energy-Weapons.png",
+			"description": "<p>Armes &agrave; &eacute;nergie est la comp&eacute;tence que vous utilisez quand&nbsp;vous maniez une arme &agrave; &eacute;nergie, tels que les pistolets laser,&nbsp;les pistolets &agrave; plasma, les armes de&nbsp;Gauss ou toute autre arme qui tire un&nbsp;trait d&rsquo;&eacute;nergie.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est&nbsp;la <strong>Perception</strong>, mais vous pouvez utiliser Intelligence si&nbsp;vous essayez de modifier ou r&eacute;parer votre arme, Agilit&eacute;&nbsp;si vous tentez de d&eacute;samorcer un pi&egrave;ge impliquant une&nbsp;arme &agrave; &eacute;nergie. Employez Armes &agrave; &eacute;nergie pour manier&nbsp;un pistolet &agrave; &eacute;nergie, un fusil plasma, un fusil de Gauss,&nbsp;un &eacute;metteur micro-ondes ou un mousquet laser.</p>"
+		},
+		{
+			"id": "Explosives",
+			"name": "Explosifs",
+			"img": "modules/fallout-fr/asset/Explosives.png",
+			"description": "<p>Lorsque vous lancez des explosifs,&nbsp;les placez pour tendre un pi&egrave;ge ou&nbsp;les faites d&eacute;toner &agrave; distance, vous&nbsp;utilisez la comp&eacute;tence Explosifs.</p>\n<p>Son attribut S.P.E.C.I.A.L. par&nbsp;d&eacute;faut est la <strong>Perception</strong>, mais&nbsp;vous pouvez utiliser Force pour&nbsp;lancer une grenade aussi loin que possible ou Agilit&eacute;&nbsp;pour essayer de vous rapprocher au plus pr&egrave;s d&rsquo;une mine&nbsp;sans la d&eacute;clencher. Employez Explosifs pour utiliser des&nbsp;mines ou des grenades &agrave; fragmentation, des cocktails&nbsp;Molotov, des grenades Nuka, des grenades &agrave; plasma, des&nbsp;grenades &agrave; impulsion, des mines ou de la dynamite.</p>"
+		},
+		{
+			"id": "Lockpick",
+			"name": "Crochetage",
+			"img": "modules/fallout-fr/asset/Lockpick.png",
+			"description": "<p>La comp&eacute;tence Crochetage&nbsp;refl&egrave;te votre savoir-faire en mati&egrave;re&nbsp;de manipulation de serrures afin de&nbsp;les ouvrir sans cl&eacute;.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est la <strong>Perception</strong>,&nbsp;mais vous pouvez utiliser Agilit&eacute;, ou Force si vous&nbsp;essayez de forcer la porte sans endommager la serrure.&nbsp;Employez Crochetage pour ouvrir un coffre ou une porte&nbsp;verrouill&eacute;e.</p>"
+		},
+		{
+			"id": "Medicine",
+			"name": "Médecine",
+			"img": "modules/fallout-fr/asset/Medicine.png",
+			"description": "<p>M&eacute;decine est la comp&eacute;tence qui recouvre les connaissances, et la mise en pratique de ces derni&egrave;res, li&eacute;es &agrave; la m&eacute;decine en g&eacute;n&eacute;ral, des premiers secours &agrave; la pharmacologie, en passant par la chirurgie et le traitement de l&rsquo;empoisonnement aux radiations.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Intelligence</strong>, mais vous pouvez utiliser Agilit&eacute; pour op&eacute;rer,&nbsp;ou Charisme pour conseiller un compagnon. Employez M&eacute;decine pour stabiliser vos alli&eacute;s au combat et soigner&nbsp;leurs blessures.</p>"
+		},
+		{
+			"id": "Melee Weapons",
+			"name": "Armes de corps à corps",
+			"img": "modules/fallout-fr/asset/Melee-Weapons.png",
+			"description": "<p>La comp&eacute;tence Armes de corps &agrave; corps&nbsp;repr&eacute;sente votre talent pour&nbsp;infliger des d&eacute;g&acirc;ts et d&eacute;vier les&nbsp;coups avec des armes de corps&nbsp;&agrave; corps de tout type.</p>\n<p>Son attribut S.P.E.C.I.A.L. par&nbsp;d&eacute;faut est la <strong>Force</strong>, mais vous pouvez&nbsp;utiliser Agilit&eacute; pour parer une attaque&nbsp;au corps &agrave; corps ou Charisme pour&nbsp;menacer quelqu&rsquo;un. Employez Armes de corps &agrave; corps&nbsp;pour effectuer une attaque au corps &agrave; corps.</p>"
+		},
+		{
+			"id": "Pilot",
+			"name": "Pilotage",
+			"img": "modules/fallout-fr/asset/Pilot.png",
+			"description": "<p>Pilotage repr&eacute;sente toutes vos capacit&eacute;s de conduite de v&eacute;hicules divers&nbsp;et vari&eacute;s, des buggies aux motos, en&nbsp;passant par les vertipt&egrave;res et les&nbsp;tanks.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut&nbsp;est la <strong>Perception</strong>, mais vous pouvez utiliser Force pour retenir un&nbsp;buggy lorsqu&rsquo;il d&eacute;rape, ou Agilit&eacute;&nbsp;pour poser un vertipt&egrave;re sur une zone &eacute;troite. Employez&nbsp;Pilotage pour conduire un v&eacute;hicule terrestre ou piloter&nbsp;un v&eacute;hicule a&eacute;rien.</p>"
+		},
+		{
+			"id": "Repair",
+			"name": "Réparation",
+			"img": "modules/fallout-fr/asset/Repair.png",
+			"description": "<p>Construire et r&eacute;parer des objets,&nbsp;qu&rsquo;il s&rsquo;agisse d&rsquo;armes ou de b&acirc;timents, de pi&egrave;ges simples ou au&nbsp;m&eacute;canisme complexe, d&eacute;pend de&nbsp;la comp&eacute;tence R&eacute;paration.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Intelligence</strong>, mais vous pouvez utiliser Force pour amener&nbsp;une machinerie lourde &agrave; fonctionner &agrave; nouveau ou&nbsp;Perception pour essayer de comprendre le probl&egrave;me d&rsquo;un&nbsp;moteur. Employez R&eacute;paration pour r&eacute;parer ou modifier&nbsp;des armes, rafistoler des robots, confectionner des objets&nbsp;&agrave; partir de pi&egrave;ces d&eacute;tach&eacute;es ou construire des d&eacute;fenses.</p>"
+		},
+		{
+			"id": "Science",
+			"name": "Science",
+			"img": "modules/fallout-fr/asset/Science.png",
+			"description": "<p>La comp&eacute;tence Science recouvre&nbsp;toutes les connaissances th&eacute;oriques&nbsp;et pratiques, mais, dans les Terres&nbsp;d&eacute;sol&eacute;es, elle sert surtout &agrave; coder&nbsp;des ordinateurs, programmer des&nbsp;robots et concocter des drogues.</p>\n<p>Son attribut S.P.E.C.I.A.L.&nbsp;par d&eacute;faut est l&rsquo;<strong>Intelligence</strong>, mais vous pouvez utiliser Perception pour &eacute;tudier un sujet-test ou Charisme pour convaincre autrui &agrave;&nbsp;l&rsquo;aide de vos savoirs scientifiques. Employez Science pour&nbsp;pirater un ordinateur, concocter des drogues et r&eacute;soudre&nbsp;vos probl&egrave;mes gr&acirc;ce &agrave; la science !</p>"
+		},
+		{
+			"id": "Small Guns",
+			"name": "Armes légères",
+			"img": "modules/fallout-fr/asset/Small-Guns.png",
+			"description": "<p>La comp&eacute;tence Armes&nbsp;l&eacute;g&egrave;res mesure votre pr&eacute;cision avec les armes &agrave; un&nbsp;coup, les pistolets automatiques, les fusils et les fusils &agrave; pompe,&nbsp;ainsi que vos connaissances pratiques&nbsp;en la mati&egrave;re.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Agilit&eacute;</strong>, mais&nbsp;vous pouvez utiliser Charisme pour tenir quelqu&rsquo;un en&nbsp;respect avec votre arme ou Endurance pour garder votre&nbsp;arme braqu&eacute;e sur votre cible. Employez Armes l&eacute;g&egrave;res&nbsp;pour effectuer une attaque &agrave; distance avec un pistolet,&nbsp;un fusil ou un fusil &agrave; pompe.</p>"
+		},
+		{
+			"id": "Sneak",
+			"name": "Discrétion",
+			"img": "modules/fallout-fr/asset/Sneak.png",
+			"description": "<p>La comp&eacute;tence Discr&eacute;tion recouvre&nbsp;le d&eacute;placement furtif et toute tentative de ne pas vous faire remarquer lorsque vous entreprenez une&nbsp;action physique.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Agilit&eacute;</strong>, mais&nbsp;vous pouvez utiliser Perception pour d&eacute;tecter des ennemis en embuscade ou Intelligence pour partir en rep&eacute;rage dans un b&acirc;timent. Employez Discr&eacute;tion pour vous&nbsp;d&eacute;placer en silence ou rester cach&eacute;.</p>"
+		},
+		{
+			"id": "Speech",
+			"name": "Discours",
+			"img": "modules/fallout-fr/asset/Speech.png",
+			"description": "<p>La comp&eacute;tence Discours recouvre&nbsp;les techniques que vous avez&nbsp;apprises pour communiquer avec&nbsp;autrui, convaincre vos interlocuteurs avec de solides arguments&nbsp;ou leur mentir sans qu&rsquo;ils s&rsquo;en&nbsp;rendent compte.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est le <strong>Charisme</strong>,&nbsp;mais vous pouvez utiliser Intelligence pour &eacute;crire un&nbsp;discours ou Perception pour d&eacute;terminer &agrave; quel point&nbsp;votre pigeon est susceptible de croire &agrave; votre mensonge.&nbsp;Employez Discours pour convaincre autrui de vos arguments, inspirer vos interlocuteurs ou tenter de les duper&nbsp;de mani&egrave;re convaincante.</p>"
+		},
+		{
+			"id": "Survival",
+			"name": "Survie",
+			"img": "modules/fallout-fr/asset/Survival.png",
+			"description": "<p>La comp&eacute;tence Survie recouvre&nbsp;toutes sortes de savoir-faire&nbsp;utiles dans la nature, comme la&nbsp;chasse, la cueillette, la p&ecirc;che, la&nbsp;construction d&rsquo;abris de fortune&nbsp;et l&rsquo;allumage de feu.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Endurance</strong>,&nbsp;mais vous pouvez utiliser Perception pour d&eacute;terminer&nbsp;combien de temps il vous reste avant la tomb&eacute;e de la&nbsp;nuit ou Charisme pour charmer des animaux. Employez&nbsp;Survie pour construire un camp ou pour tester votre&nbsp;r&eacute;sistance &agrave; la malnutrition ou &agrave; la d&eacute;shydratation.</p>"
+		},
+		{
+			"id": "Throwing",
+			"name": "Projectiles",
+			"img": "modules/fallout-fr/asset/Throwing.png",
+			"description": "<p>La comp&eacute;tence Projectiles&nbsp;d&eacute;termine votre capacit&eacute; &agrave;&nbsp;r&eacute;ussir des attaques avec des&nbsp;armes de lancer telles que des&nbsp;javelots, des couteaux ou des&nbsp;armes improvis&eacute;es.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut est l&rsquo;<strong>Agilit&eacute;</strong>, mais&nbsp;vous pouvez utiliser Force dans le cas d&rsquo;objets lourds,&nbsp;ou Perception pour &eacute;valuer la distance jusqu&rsquo;&agrave; la cible.&nbsp;Employez Projectiles pour effectuer une attaque de lancer&nbsp;&agrave; l&rsquo;aide d&rsquo;armes sp&eacute;cifiques.</p>"
+		},
+		{
+			"id": "Unarmed",
+			"name": "Mains nues",
+			"img": "modules/fallout-fr/asset/Unarmed.png",
+			"description": "<p>La comp&eacute;tence Mains nues mesure&nbsp;votre capacit&eacute; &agrave; combattre avec vos&nbsp;poings.</p>\n<p>Son attribut S.P.E.C.I.A.L. par d&eacute;faut&nbsp;est la <strong>Force</strong>, mais vous pouvez utiliser&nbsp;Agilit&eacute;, ou Charisme pour menacer ou&nbsp;intimider autrui. Employez Mains nues&nbsp;pour attaquer lorsque vous &ecirc;tes d&eacute;sarm&eacute;.</p>"
+		}
+	]
+}
