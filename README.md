@@ -15,6 +15,7 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
  * Modification de variables du système (fichier fr.json)
  * Modification des variables img du css (fichier fallout.css)
+ * Mise à jour du manifeste (fichier module.json )
 
 ## Version 0.0.9
 
@@ -43,6 +44,7 @@ In order to work this module requires the following prerequisites:
 
  * Modification of system variables (file fr.json)
  * Modification of css img variables (fallout.css file)
+ * Update of the manifest (module.json file)
 
 ## Version 0.0.9
 
