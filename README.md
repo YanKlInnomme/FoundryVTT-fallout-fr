@@ -1,7 +1,8 @@
 # Module fallout-fr pour Foundry VTT
 Améliorer votre expérience de jeu avec ce module de traduction VF pour la version Fallout 2d20 de HappySteve pour Foundry VTT.
 
-
+![Capture d’écran 2022-06-10 000947](https://user-images.githubusercontent.com/100078854/172953993-f13ff6d7-375e-4056-a895-44b0af693547.jpg)
+![Capture d’écran 2022-06-10 001225](https://user-images.githubusercontent.com/100078854/172953995-ab262f8d-b032-476f-be97-3f2ada73f160.jpg)
 
 ## Prérequis
 
