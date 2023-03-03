@@ -3,7 +3,7 @@
 	"mapping": {
 		"name": "name",
 		"img": "img",
-		"description": "data.description"
+		"description": "system.description"
 	},
 	"entries": [
 		{

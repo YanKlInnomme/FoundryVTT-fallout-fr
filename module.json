@@ -1,54 +1,41 @@
 {
+  "id": "fallout-fr",
   "title": "Fallout Traduction Française - Fallout French Translation",
   "description": "Module de traduction en langue française pour la version Fallout 2d20 de HappySteve sur Foundry VTT<br />French translation module for the Fallout 2d20 of HappySteve on Foundry VTT",
-  "version": "1.0.0",
-  "esmodules": [
-    "babele-register.js"
+  "version": "2.0.0",
+  "license": "LICENSE",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "YanK",
+      "url": "https://fr.tipeee.com/yank",
+      "email": "yanklinnomme@gmail.com",
+      "discord": "YanK#8683"
+    }
   ],
-  "styles": [
-    "css/fallout.css"
-  ],
+  "relationships.systems": ["fallout"],
+  "relationships.requires":	[
+		{"name": "babele"},
+		{"name": "lib-wrapper"},
+		{
+      "name": "fallout",
+      "type": "system"
+		}
+	],
+  "esmodules": ["babele-register.js"],
+  "styles": ["css/fallout.css"],
   "languages": [
     {
       "lang": "fr",
       "name": "French",
-      "path": "fr.json",
-      "flags": {}
+      "path": "fr.json"
     }
   ],
   "url": "https://github.com/YanKlInnomme/FoundryVTT-fallout-fr",
-  "manifest": "https://github.com/YanKlInnomme/FoundryVTT-fallout-fr/releases/latest/download/module.json",
-  "download": "https://github.com/YanKlInnomme/FoundryVTT-fallout-fr/releases/download/v1.0.0/module.zip",
-  "id": "fallout-fr",
-  "authors": [
-    {
-      "name": "YanK (YanK#8683)",
-      "flags": {}
-    }
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "babele",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "lib-wrapper",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
-    "systems": [
-      {
-        "id": "fallout",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
-  },
-  "compatibility": {
-    "minimum": "9",
-    "verified": "9"
-  }
+  "manifest": "",
+  "download": ""
 }
