@@ -11,7 +11,12 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
 
+## Version 2.0.1
+
+ * Mise à jour du manifeste pour une activation correcte des modules requis
+
 ## Version 2.0.0
+
  * Mise à jour du manifeste et migration v10
 
 ## Version 1.0.0
@@ -43,7 +48,12 @@ In order to work this module requires the following prerequisites:
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
 
+## Version 2.0.1
+
+ * Updated the manifest for proper activation of required modules
+
 ## Version 2.0.0
+
  * Manifest update and v10 migration
 
 ## Version 1.0.0
