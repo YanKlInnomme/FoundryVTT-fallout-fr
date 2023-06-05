@@ -32,7 +32,10 @@
       }
     ]
   },
-  "esmodules": ["babele-register.js"],
+  "esmodules": [
+    "override-carry-weight.js",
+    "babele-register.js"
+  ],
   "styles": ["css/fallout.css"],
   "languages": [
     {
