@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FoundryVTT-fallout-fr.iml" filepath="$PROJECT_DIR$/.idea/FoundryVTT-fallout-fr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fallout/.idea/fallout.iml" filepath="$PROJECT_DIR$/../fallout/.idea/fallout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../foundry-vtt-fallout-2d20-french/.idea/foundry-vtt-fallout-2d20-french.iml" filepath="$PROJECT_DIR$/../foundry-vtt-fallout-2d20-french/.idea/foundry-vtt-fallout-2d20-french.iml" />
+    </modules>
+  </component>
+</project>

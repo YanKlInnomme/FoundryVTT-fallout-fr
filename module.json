@@ -34,6 +34,7 @@
   },
   "esmodules": [
     "override-carry-weight.js",
+    "override-ui-notifications.js",
     "babele-register.js"
   ],
   "styles": ["css/fallout.css"],
