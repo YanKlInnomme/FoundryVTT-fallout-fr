@@ -199,7 +199,21 @@
     "SPECIAL_ABILITY": "Aptitude spéciale",
     "INVENTORY": "Inventaire",
     "stashed": "Caché",
-    "favorite": "Favoris"
+    "favorite": "Favoris",
+    "NOTIFICATIONS": {
+      "ONLY_PLAYERS_CAN_HAVE_PERKS": "Les aptitudes sont réservées aux PJs",
+      "ONLY_CHARACTERS_CAN_HAVE_DISEASE": "Seuls les PJs non-robots peuvent être malades",
+      "ONLY_NPCs_AND_CREATURES_CAN_HAVE_SPECIAL_ABILITIES": "Les capacités spéciales sont réservées aux PNJs et créatures",
+      "Select_Dice_you_want_to_Reroll": "Choisissez les dés à relancer",
+      "No_dice_face_reckognized": "Type de dé non reconnu",
+      "THERE_IS_ALREADY_A_SKILL_WITH_THAT_NAME": "Une compétence porte déjà ce nom",
+      "Adding_Item_Macro:_This_feature_is_to_be_added_in_the_future": "Cette fonctionnalité n'est pas encore disponible",
+      "You_can_only_create_macro_buttons_for_owned_Items": "Vous ne pouvez créer de bouton de macro que pour les objets que vous possédez",
+      "To_be_added_in_the_future": "Cette fonctionnalité n'est pas encore disponible",
+      "Managing_Active_Effects_within_an_Owned_Item_is_not_currently_supported_and_will_be_added_in_a_subsequent_update.": "Cette fonctionnalité n'est pas encore disponible",
+      "Ammo_not_found": "Pas de munitions de ce type",
+      "Not_enough_ammo": "Pas assez de munitions de ce type"
+    }
   },
   "FALLOUT.TEMPLATES": {
     "OVERSEER_AP": "P.A. DU MENEUR",
