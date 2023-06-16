@@ -38,8 +38,8 @@
     ]
   },
   "esmodules": [
-    "override-carry-weight.js",
-    "override-ui-notifications.js",
+    "javascript/override-carry-weight.js",
+    "javascript/override-ui-notifications.js",
     "babele-register.js"
   ],
   "styles": ["css/fallout.css"],
