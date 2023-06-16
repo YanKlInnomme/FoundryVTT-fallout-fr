@@ -11,6 +11,13 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
 
+## Version 2.1.0
+
+ * Mise à jour suite à la sortie la version 11 de Foundry VTT
+ * Modification de variables du système (fichier fr.json) par LaCorbelle (https://github.com/lucascorbeaux)
+ * Modification du calcul de l'encombrement en métrique au lieu d'impériale par LaCorbelle (https://github.com/lucascorbeaux)
+ * Ajout de la traduction des notifications par LaCorbelle (https://github.com/lucascorbeaux)
+ 
 ## Version 2.0.1
 
  * Mise à jour du manifeste pour une activation correcte des modules requis
@@ -47,6 +54,13 @@ In order to work this module requires the following prerequisites:
  * HappySteve's Fallout 2d20 system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+## Version 2.1.0
+
+ * Updated following the release of Foundry VTT version 11
+ * Modification of system variables (fr.json file) by LaCorbelle (https://github.com/lucascorbeaux)
+ * Modified footprint calculation from imperial to metric by LaCorbelle (https://github.com/lucascorbeaux)
+ * Added notification translation by LaCorbelle (https://github.com/lucascorbeaux)
 
 ## Version 2.0.1
 

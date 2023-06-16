@@ -2,12 +2,12 @@
   "id": "fallout-fr",
   "title": "Fallout Traduction Française - Fallout French Translation",
   "description": "Module de traduction en langue française pour la version Fallout 2d20 de HappySteve sur Foundry VTT<br />French translation module for the Fallout 2d20 of HappySteve on Foundry VTT",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "license": "LICENSE",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.291",
-    "maximum": "11"
+    "minimum": "11",
+    "verified": "11.301",
+    "maximum": "12"
   },
   "authors": [
     {
@@ -15,6 +15,11 @@
       "url": "https://fr.tipeee.com/yank",
       "email": "yanklinnomme@gmail.com",
       "discord": "YanK#8683"
+    },
+    {
+      "name": "LaCorbelle",
+      "url": "https://github.com/lucascorbeaux",
+      "discord": "lacorbelle"
     }
   ],
  "relationships": {
