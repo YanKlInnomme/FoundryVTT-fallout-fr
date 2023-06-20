@@ -6,14 +6,20 @@
  * @returns {*}
  */
 function localizeUiNotification(wrapped, ...args) {
+    const message = args[0]
+
+    if (typeof message !== 'string') {
+        return wrapped(...args)
+    }
+
     let key = "FALLOUT.UI.NOTIFICATIONS."
 
-    if (args[0].startsWith("Ammo ") && args[0].endsWith(" not found")) {
+    if (message.startsWith("Ammo ") && message.endsWith(" not found")) {
         key += "Ammo_not_found"
-    } else if (args[0].startsWith("Not enough ") && args[0].endsWith(" ammo")) {
+    } else if (message.startsWith("Not enough ") && message.endsWith(" ammo")) {
         key += "Not_enough_ammo"
     } else {
-        key += `${args[0].replace(/\s+/g, '_')}`;
+        key += `${message.replace(/\s+/g, '_')}`;
     }
 
     if (game.i18n.has(key)) {
