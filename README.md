@@ -11,6 +11,10 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
 
+## Version 2.1.1
+
+ *  Correction du bug dans les notifications lorsque l'argument n'est pas une chaîne par LaCorbelle (https://github.com/lucascorbeaux)
+
 ## Version 2.1.0
 
  * Mise à jour suite à la sortie la version 11 de Foundry VTT
@@ -54,6 +58,10 @@ In order to work this module requires the following prerequisites:
  * HappySteve's Fallout 2d20 system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+## Version 2.1.1
+
+ * Fixed bug in notifications when argument is not a string by LaCorbelle (https://github.com/lucascorbeaux)
 
 ## Version 2.1.0
 
